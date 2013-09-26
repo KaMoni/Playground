@@ -1,12 +1,14 @@
 using System;
+using ADDED;
 
 namespace gitplay
 {
-    public class MergeMe
+    public class MergeMeCHANGED
     {
-        public string hello { get; set; }
-        public string goodbye { get; set; }
-        public string ciao { get; set; }
+	  public string ciao { get; set; }
+					public string hello { get; set; }
+        
+      piblic string ADDED
 
         public void SayHello()
         {
@@ -14,4 +16,6 @@ namespace gitplay
     
     
     }
+	
+	//Comment ADDED
 }
