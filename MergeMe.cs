@@ -4,7 +4,7 @@ namespace gitplay
 {
     public class MergeMe
     {
-        public string helloGemerged { get; set; }
+        public string hello{ get; set; }
         public string goodbye { get; set; }
         public string ciaoKakao { get; set; }
 
