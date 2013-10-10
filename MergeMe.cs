@@ -8,6 +8,7 @@ namespace gitplay
         public string goodbye { get; set; }
         public string ciaoKakao { get; set; }
 
+
         public void SayHello()
         {
         }
