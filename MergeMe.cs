@@ -4,9 +4,10 @@ namespace gitplay
 {
     public class MergeMe
     {
-        public string helloMoni { get; set; }
+        public string helloIchBinUser1{ get; set; }
         public string goodbye { get; set; }
-        public string ciao { get; set; }
+        public string ciaoKakao { get; set; }
+
 
         public void SayHello()
         {
