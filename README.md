@@ -2,7 +2,7 @@
 >"Skills children develop on the playground often become lifelong skill sets." (WIKIPEDIA)
 <br><br>
 
-So this playground is a very important place for experimenting and learning, keeping little code snippets etc.
+This playground is a very important place for experimenting and learning, keeping little code snippets etc.
 
 ## ASP-ListViewExample
 
