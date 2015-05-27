@@ -13,6 +13,10 @@ This example shows how to use an object instead.
 
 What does responsive Design mean? How do elements behave when beeing responsive? <br>
 
+## WPF-MVVMExample
+
+This example shows the use of MVVM with WPF.
+
 ## WIKI
 
 In the wiki you can find a draft of a [Branching Model](Branching-Model):<br>
