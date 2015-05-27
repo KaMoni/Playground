@@ -13,4 +13,12 @@ This example shows how to use an object instead.
 
 What does responsive Design mean? How do elements behave when beeing responsive? <br>
 
+## WIKI
+
+In the wiki you can find a draft of a [Branching Model](Branching-Model):<br>
+
+It's a simple version that contains 
+* a develop branch
+* a release-candidate branch which is used for testing
+* a master branch which is tagged with the actual version and is ready to be delivered
 
